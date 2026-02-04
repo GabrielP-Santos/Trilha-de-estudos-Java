@@ -1,6 +1,4 @@
-package Exercicios.poo.Unidade2cap2;
-
-import Exercicios.poo.Unidade2cap2.ex04.Engenheiro;
+package Exercicios.poo.Unidade2cap2.ex04;
 
 public class Main {
     public static void main(String[] args) {
