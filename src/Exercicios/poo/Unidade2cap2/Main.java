@@ -1,4 +1,4 @@
 package Exercicios.poo.Unidade2cap2;
 
-public class MainEx4 {
+public class Main {
 }
