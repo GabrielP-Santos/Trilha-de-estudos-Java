@@ -1,4 +1,4 @@
-package Exercicios.poo.Unidade2cap1;
+package Exercicios.poo.Unidade2cap1.ex03;
 
 public class Produto {
     private String nome;

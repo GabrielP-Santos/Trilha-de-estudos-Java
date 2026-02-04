@@ -1,4 +1,4 @@
-package Exercicios.poo.Unidade2cap1;
+package Exercicios.poo.Unidade2cap1.ex01;
 
 public class ContaBancaria {
     private int numero;
